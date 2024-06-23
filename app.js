@@ -14,4 +14,3 @@ else{
     alert('Você errou :( O número secreto era'  + numeroSecreto +  'Tente outra vez!')
 }
 
-é
